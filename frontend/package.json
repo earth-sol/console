@@ -64,7 +64,7 @@
     "@icons-pack/react-simple-icons": "^13.8.0",
     "@milkdown/kit": "^7.18.0",
     "@milkdown/react": "^7.18.0",
-    "@modelcontextprotocol/sdk": "^1.25.2",
+    "@modelcontextprotocol/sdk": "^1.26.0",
     "@monaco-editor/react": "^4.7.0",
     "@redpanda-data/ui": "^4.2.0",
     "@stepperize/react": "^5.1.8",
